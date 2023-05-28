@@ -79,10 +79,25 @@ h1 {
      
 }
 
-
-
 .creditsBoxArea {
     color: red;
     text-align: center;
     font-size: 20px;
+}
+
+.donationText {
+    color: red;
+}
+
+.champions {
+    color: gold;
+    font-size: 66px;
+}
+
+.firstSeasonChampion {
+    color: gold;
+}
+
+.championsSeason2 {
+    color: gold;
 }
